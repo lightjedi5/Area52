@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: ad7c2d2e4b6f05448987382ebd029fcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8839899714552245897
+    second: metal slug soldiers_0
+  - first:
+      213: -4871248767862496952
+    second: metal slug soldiers_1
+  - first:
+      213: -2328934062813353493
+    second: metal slug soldiers_2
+  - first:
+      213: 5718762462946843948
+    second: metal slug soldiers_3
+  - first:
+      213: 8291319582464828
+    second: metal slug soldiers_4
+  - first:
+      213: -3708537921898319202
+    second: metal slug soldiers_5
+  - first:
+      213: 5881607300771468879
+    second: metal slug soldiers_6
+  - first:
+      213: -680155299471520704
+    second: metal slug soldiers_7
+  - first:
+      213: 871198593177561689
+    second: metal slug soldiers_8
+  - first:
+      213: 3824349195957263796
+    second: metal slug soldiers_9
+  - first:
+      213: -765160189677550390
+    second: metal slug soldiers_10
+  - first:
+      213: 1499821641822041859
+    second: metal slug soldiers_11
+  - first:
+      213: -1270814012309458647
+    second: metal slug soldiers_12
+  - first:
+      213: -369976924999520463
+    second: metal slug soldiers_13
+  - first:
+      213: 3683925403309879945
+    second: metal slug soldiers_14
+  - first:
+      213: 6814440109612715824
+    second: metal slug soldiers_15
+  - first:
+      213: -7725827020755897642
+    second: metal slug soldiers_16
+  - first:
+      213: -8417306162367954769
+    second: metal slug soldiers_17
+  - first:
+      213: -364280974458833002
+    second: metal slug soldiers_18
+  - first:
+      213: -500033051681268222
+    second: metal slug soldiers_19
+  - first:
+      213: 4668061083491545142
+    second: metal slug soldiers_20
+  - first:
+      213: 3626141769041707690
+    second: metal slug soldiers_21
+  - first:
+      213: -5872382948345381994
+    second: metal slug soldiers_22
+  - first:
+      213: -7131230334475040991
+    second: metal slug soldiers_23
+  - first:
+      213: -1810710908821665170
+    second: metal slug soldiers_24
+  - first:
+      213: 8129658150718058739
+    second: metal slug soldiers_25
+  - first:
+      213: -6023194405382087617
+    second: metal slug soldiers_26
+  - first:
+      213: -3101123283263614500
+    second: metal slug soldiers_27
+  - first:
+      213: 1972965512591358527
+    second: metal slug soldiers_28
+  - first:
+      213: 5485301591371586311
+    second: metal slug soldiers_29
+  - first:
+      213: -4622832089610339523
+    second: metal slug soldiers_30
+  - first:
+      213: 7362120697132762570
+    second: metal slug soldiers_31
+  - first:
+      213: -7428020998034622232
+    second: metal slug soldiers_32
+  - first:
+      213: 7483050667376794227
+    second: metal slug soldiers_33
+  - first:
+      213: 4599403335341990962
+    second: metal slug soldiers_34
+  - first:
+      213: -1242837493271165160
+    second: metal slug soldiers_35
+  - first:
+      213: -7693892278016725292
+    second: metal slug soldiers_36
+  - first:
+      213: -57520534343756579
+    second: metal slug soldiers_37
+  - first:
+      213: -8870410883046682820
+    second: metal slug soldiers_38
+  - first:
+      213: 3159993907885931002
+    second: metal slug soldiers_39
+  - first:
+      213: 5947504626421606779
+    second: metal slug soldiers_40
+  - first:
+      213: 1328040725742857363
+    second: metal slug soldiers_41
+  - first:
+      213: 157011155426903778
+    second: metal slug soldiers_42
+  - first:
+      213: -7107171493831301713
+    second: metal slug soldiers_43
+  - first:
+      213: 5324190427073118744
+    second: metal slug soldiers_44
+  - first:
+      213: -7569818661920828615
+    second: metal slug soldiers_45
+  - first:
+      213: -1260231112627089408
+    second: metal slug soldiers_46
+  - first:
+      213: -8492371637990438553
+    second: metal slug soldiers_47
+  - first:
+      213: -2237820647319018074
+    second: metal slug soldiers_48
+  - first:
+      213: -3883499054079777956
+    second: metal slug soldiers_49
+  - first:
+      213: 2415717742268141863
+    second: metal slug soldiers_50
+  - first:
+      213: -3991161594548362354
+    second: metal slug soldiers_51
+  - first:
+      213: -9093355487647928612
+    second: metal slug soldiers_52
+  - first:
+      213: 5787159425464750691
+    second: metal slug soldiers_53
+  - first:
+      213: -2355652424877386540
+    second: metal slug soldiers_54
+  - first:
+      213: -2031555162345225823
+    second: metal slug soldiers_55
+  - first:
+      213: -4791098648336279323
+    second: metal slug soldiers_56
+  - first:
+      213: -2392716512153942702
+    second: metal slug soldiers_57
+  - first:
+      213: 462408718293751209
+    second: metal slug soldiers_58
+  - first:
+      213: 3651253667902736300
+    second: metal slug soldiers_59
+  - first:
+      213: 297658051363144842
+    second: metal slug soldiers_60
+  - first:
+      213: -6758539729599321829
+    second: metal slug soldiers_61
+  - first:
+      213: -616580621471112996
+    second: metal slug soldiers_62
+  - first:
+      213: -3867607463361087354
+    second: metal slug soldiers_63
+  - first:
+      213: 7929211081737917948
+    second: metal slug soldiers_64
+  - first:
+      213: -8198837562600506154
+    second: metal slug soldiers_65
+  - first:
+      213: -7139789802046634526
+    second: metal slug soldiers_66
+  - first:
+      213: -4846184877377055978
+    second: metal slug soldiers_67
+  - first:
+      213: 7350199614563567777
+    second: metal slug soldiers_68
+  - first:
+      213: 7848326088370515458
+    second: metal slug soldiers_69
+  - first:
+      213: -7231401273862222519
+    second: metal slug soldiers_70
+  - first:
+      213: -8614986736966067042
+    second: metal slug soldiers_71
+  - first:
+      213: 441164766292519755
+    second: metal slug soldiers_72
+  - first:
+      213: -6128153519398582116
+    second: metal slug soldiers_73
+  - first:
+      213: -388531472839721356
+    second: metal slug soldiers_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal slug soldiers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd859fd1be90cfa49b42c619353ae472
+      internalID: 8839899714552245897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 460
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e888b53c5350b4cb7bf28bf0834b40
+      internalID: -4871248767862496952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 462
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19413a138598a6f488a0555e945abade
+      internalID: -2328934062813353493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 459
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bd3977a3aef4844a86473344854a64
+      internalID: 5718762462946843948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 466
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bc754e6bd4064489c36c4442fb7a0a
+      internalID: 8291319582464828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 470
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562c4a5a20896a14d88178ad5092448b
+      internalID: -3708537921898319202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36dacdb10db2de42952936f941ccd70
+      internalID: 5881607300771468879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5dab85ac28b3f4fa14dc78b76dc8b5
+      internalID: -680155299471520704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 424
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93e7e8e3dde6f4f9ceca5369ccf3b3
+      internalID: 871198593177561689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 419
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a8f9bce7e2914a9273be4149cc571
+      internalID: 3824349195957263796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 419
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b204e383fdae4b940726361a0c263
+      internalID: -765160189677550390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 419
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144e8cf343962a94fa9c67a55cbb2168
+      internalID: 1499821641822041859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 417
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e165c504ffa3a4c89c7d8efc32826f
+      internalID: -1270814012309458647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 409
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bc5f7ceea74d94987f8f966e0f4873
+      internalID: -369976924999520463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f23950eaf5b6488e32c6c0314635b
+      internalID: 3683925403309879945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 369
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a026c6817b10b4eb68ab9ef4809ac4
+      internalID: 6814440109612715824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 371
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafece86d6872c47ac2403bfec0e1af
+      internalID: -7725827020755897642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 375
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28e6cef70c7b424ca303aa55b0c926c
+      internalID: -8417306162367954769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 374
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905b8bc05ad234469f554214eb4715b
+      internalID: -364280974458833002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 374
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd073b7b7c06d499be53b5ad3519ea
+      internalID: -500033051681268222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 370
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c4020b4e802f448caeeeb0a0f0774
+      internalID: 4668061083491545142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f5bc4cdba9a84bb7e8defc3c4c048
+      internalID: 3626141769041707690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 326
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ad6d98c6f8c6439a7fc11c35578bf
+      internalID: -5872382948345381994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 326
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6ab6facaa76f41970d34c8134e139
+      internalID: -7131230334475040991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 326
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9229525f63088834faaa5ccae00c2c0d
+      internalID: -1810710908821665170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 332
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d069a7e6aa7684da9144c74cdbc570
+      internalID: 8129658150718058739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 331
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77dd94dfb593443ae5ef3fa5628b80
+      internalID: -6023194405382087617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 336
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0b6be01fbc03469291394c5553f07
+      internalID: -3101123283263614500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b995fac0a3a44a8a93bc4b326d665
+      internalID: 1972965512591358527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 285
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29df928f68b4504cb6ba2c746d03588
+      internalID: 5485301591371586311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 284
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71665d9e8a1e52f439618cbc4593cf3d
+      internalID: -4622832089610339523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1fffa57a071d4ea79779690d5373b
+      internalID: 7362120697132762570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 281
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49575aa8de7a449a85e5a699fe97f5
+      internalID: -7428020998034622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 292
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e0ba9d87754441aea1248544cb4e4
+      internalID: 7483050667376794227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 252
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a716b330b8a834c92dbcd96b4ea2d0
+      internalID: 4599403335341990962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ff9bc4e7e69b44a0dbab38e02927f
+      internalID: -1242837493271165160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f8e79301cf51b4eb5b552285df99be
+      internalID: -7693892278016725292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff0be90f59adbd4093a34c2d2ac2ab2
+      internalID: -57520534343756579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 233
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f170600cd80530448836ab9135f8c1e
+      internalID: -8870410883046682820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 239
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba727261fb8b984d955c576fd3030e4
+      internalID: 3159993907885931002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 242
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246a0b74ea2d2147a1dfabf3edaf4df
+      internalID: 5947504626421606779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35fa71792cc554f8adae5c47aebc52
+      internalID: 1328040725742857363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cec4b91c0cd174f8067cd601a71f33
+      internalID: 157011155426903778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 197
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb7a52b22a78746802e0070dda35d3
+      internalID: -7107171493831301713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea76376dd2812394cb9c96d57ededee7
+      internalID: 5324190427073118744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 178
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b448e6a0e2ca42b7c1271ef03f74f
+      internalID: -7569818661920828615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22630096ed31043b5896d35d13e2b2
+      internalID: -1260231112627089408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 177
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e9e2b6657ca442ba3a2e9d6f433e9
+      internalID: -8492371637990438553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 176
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a2915e2034d243ab0bfa3b02d9d7a
+      internalID: -2237820647319018074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 187
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2032568c82e243d4a991c9f8675f1fdc
+      internalID: -3883499054079777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 165
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb609b526aee141a8ea15530c29472
+      internalID: 2415717742268141863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f44be7ca970e42b5679019e2897a3
+      internalID: -3991161594548362354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 133
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9800c4d3ea9d942b039303997d55b5
+      internalID: -9093355487647928612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27476d3fd058d3a4eb45552fcece523a
+      internalID: 5787159425464750691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 136
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6484711f0b81a340b11ad795d8eed55
+      internalID: -2355652424877386540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 119
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ede92310f9ea438e386dc25f676b5
+      internalID: -2031555162345225823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 116
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecd443b1432a5c4d85a58bc2cc45594
+      internalID: -4791098648336279323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528eb4e417b571a4e96b01b247fff18b
+      internalID: -2392716512153942702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22d982d413709458d8d6dacc94360f
+      internalID: 462408718293751209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbbfea89009e749a63521c9b391a4b
+      internalID: 3651253667902736300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b7cde35b19a54da83b25ac605dafe
+      internalID: 297658051363144842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 90
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d435527dad425c4abbc64823530e7ea
+      internalID: -6758539729599321829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 117
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c626b61bea084abee932622bf2a30
+      internalID: -616580621471112996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e778a7074cfc164da1ce257b2b6378f
+      internalID: -3867607463361087354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d684c8058004468c538f325d19697
+      internalID: 7929211081737917948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c497112789744db120eb78b6a327d
+      internalID: -8198837562600506154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 42
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e556c364ccbda42b48e9572cad365d
+      internalID: -7139789802046634526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 76
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bd2cb6d6218e24daea34ff140fbab2
+      internalID: -4846184877377055978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 43
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e59f84497b87e4ea48ecc5eacc50ba
+      internalID: 7350199614563567777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b35d775028414895d0be0880e56b5
+      internalID: 7848326088370515458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1fcfb0cad97a14bb78884065dd52fa
+      internalID: -7231401273862222519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96230800b22e524fb92cf0fff2a50f2
+      internalID: -8614986736966067042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a40dd24918f9ca468c0051b1f859ad9
+      internalID: 441164766292519755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96493f9abaa240341a18b599f345b9e8
+      internalID: -6128153519398582116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal slug soldiers_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db79211038be749aad5533a3cc5882
+      internalID: -388531472839721356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

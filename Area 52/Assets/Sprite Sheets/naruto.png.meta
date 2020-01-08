@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 82368b13046681e4cb0952b64fa95dfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1234149330178908576
+    second: naruto_Walk_D1
+  - first:
+      213: -3331174007975020216
+    second: naruto_Walk_D2
+  - first:
+      213: -6671526368507341136
+    second: naruto_Walk_D3
+  - first:
+      213: 211314117268218704
+    second: naruto_Idle_F2
+  - first:
+      213: 3930939442152724358
+    second: naruto_Idle_F1
+  - first:
+      213: 7229303413145678237
+    second: naruto_Walk_R1
+  - first:
+      213: 6538728612662707114
+    second: naruto_Walk_R2
+  - first:
+      213: 2988815577852244331
+    second: naruto_Walk_R3
+  - first:
+      213: -8422804707778066040
+    second: naruto_Attack_F1
+  - first:
+      213: 7485638751139971570
+    second: naruto_Attack_F2
+  - first:
+      213: 374482968897149054
+    second: naruto_Attack_F3
+  - first:
+      213: -699829493812098763
+    second: naruto_Walk_L1
+  - first:
+      213: 7594622614329391182
+    second: naruto_Walk_L2
+  - first:
+      213: -8684626779358822688
+    second: naruto_Walk_L3
+  - first:
+      213: -4481328709520436996
+    second: naruto_Jutsu_F1
+  - first:
+      213: 909618337589685032
+    second: naruto_Jutsu_F2
+  - first:
+      213: -3199562831419102582
+    second: naruto_Jutsu_F3
+  - first:
+      213: -2697191665812391416
+    second: naruto_Walk_U1
+  - first:
+      213: 7397838870592455358
+    second: naruto_Walk_U2
+  - first:
+      213: 1153225317532108443
+    second: naruto_Walk_U3
+  - first:
+      213: -6951452116122896188
+    second: naruto_Rasengan_F1
+  - first:
+      213: 1225156158727912943
+    second: naruto_Rasengan_F2
+  - first:
+      213: -4715733019438927227
+    second: naruto_Rasengan_F3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naruto_Walk_D1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 15
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ad906a4ff559409fc45b347d03006
+      internalID: -1234149330178908576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_D2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 110
+        width: 16
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6babd3224a23e449ac48852b7383505
+      internalID: -3331174007975020216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_D3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 110
+        width: 16
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882955b773253b4a9f7a32e1a20f6f3
+      internalID: -6671526368507341136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Idle_F2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 17
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef85a5ebf755a647936729b7f6d520b
+      internalID: 211314117268218704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Idle_F1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 110
+        width: 20
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2ca3d16bea304d838667d6a7dd871
+      internalID: 3930939442152724358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_R1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 15
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee094e41cac5174695cfce2a2d24092
+      internalID: 7229303413145678237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_R2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 76
+        width: 14
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa39b330395e74da57e8c1410aa5a9
+      internalID: 6538728612662707114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_R3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ecc9a6ce75e34a915729b1d603486
+      internalID: 2988815577852244331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Attack_F1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 75
+        width: 20
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1378588e8bd02498925c6e90846aa3
+      internalID: -8422804707778066040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Attack_F2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 17
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c0fb1e8558cf40ac70830866f10ab
+      internalID: 7485638751139971570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Attack_F3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 17
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b67eae68df45944386b132da99f5ada
+      internalID: 374482968897149054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_L1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 14
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220348d7e5894e341bbed0ac8204f2af
+      internalID: -699829493812098763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_L2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 14
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5024e2e3c186c4148b262bb094b719bf
+      internalID: 7594622614329391182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_L3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 43
+        width: 15
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1124f4e7d06a47ab0435ae637536b
+      internalID: -8684626779358822688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Jutsu_F1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 14
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39449ad400523fe468fc66a88c02da48
+      internalID: -4481328709520436996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Jutsu_F2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 41
+        width: 14
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2221e82bc934294cbd3fa91c111786f
+      internalID: 909618337589685032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Jutsu_F3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 41
+        width: 14
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbbf3965d0b6c418d3ab5c2b26421a
+      internalID: -3199562831419102582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_U1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 17
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f02b504f9f2734d880135c662dcb38
+      internalID: -2697191665812391416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_U2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 16
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faddd8c57cf9a74ba2eb9df03dfe2d1
+      internalID: 7397838870592455358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Walk_U3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 17
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc3d0f4d1f0b54b850206eb13f8730
+      internalID: 1153225317532108443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Rasengan_F1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 16
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6eabe39aa4c3a4cb0ff25bdafb3252
+      internalID: -6951452116122896188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Rasengan_F2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 17
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71957f9e0820547b8594d95a6194a3
+      internalID: 1225156158727912943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto_Rasengan_F3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 16
+        height: 29
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ace3473cafcb46a3ea9e6a14ee2c4
+      internalID: -4715733019438927227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
